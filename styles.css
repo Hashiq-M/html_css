@@ -1,0 +1,120 @@
+.p1{
+    position: absolute;
+    right: 200px;
+    top:20px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    position-top: 400px;
+}
+h1{
+    margin: 50px;
+    font-size: 80px;
+    font-family: 'Sacramento',cursive;
+    color: #A0E4CB;
+}
+body{
+    text-align:center;
+    margin:0px;
+}
+.p2{
+    position: absolute;
+    left: 200px;
+}
+.p3{
+    position:center;
+}
+.middle container{
+    margin: 100px;
+}
+.mypic{
+    border-radius:100px ;
+    height:150px;
+     width:150px;
+     margin: 100px;
+}
+.aarthi,h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.anime{
+    font-size: large;
+}
+hr{
+    border:dotted #66BFBF 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.love{
+    
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+ 
+}
+h3{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+.love1{
+   width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.gow{
+    float: right;
+  margin-right: 30px;
+  width: 25%;
+}
+.gamer{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.text{
+font-size:large;
+}
+.button {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  }
+  a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #EAF6F6;
+}  
